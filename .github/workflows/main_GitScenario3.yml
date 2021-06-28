@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'GitScenario3'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_5d5e55e3a2aa4d38851fc97bd97cb36f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_56a358aa2eb24ab6bd5bd3ce3dbb8624 }}
         package: .
